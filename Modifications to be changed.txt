@@ -1,0 +1,15 @@
+Timer for total Exam. (Should be Kept).
+All Works are completed.
+
+
+1) Should Develop the UI modularity.
+
+
+a = data, b = values
+
+Changes to be made:
+
+2) when routing coming back from answers page should come to first page.
+3) To know the user selected the option give it a seperate color.
+4) All the questions & answers.
+
